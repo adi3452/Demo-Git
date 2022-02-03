@@ -1,6 +1,7 @@
 # Demo-Gi
 
-![ADITYA-UML-lab1 Submission_Online Job Portal System](https://user-images.githubusercontent.com/30904212/152421464-af2d253f-7f15-4d96-8d15-a9f853c1d0db.png)
+![Lab3_usec](https://user-images.githubusercontent.com/30904212/152423654-ed343ebd-a7b4-4bce-ab8a-b20f1e1b3805.png)
+
+![Lab3_act](https://user-images.githubusercontent.com/30904212/152423668-6e6e0dbc-b551-49b6-965c-bca2efd49be1.png)
 
 
-![activitydig](https://user-images.githubusercontent.com/30904212/152421845-3b155e12-d45a-4ab1-9eca-2c07f0b9ab62.jpeg)
